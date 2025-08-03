@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/elementaryelectricco/static/css/main.8cbc1d57.css",
+    "main.js": "/elementaryelectricco/static/js/main.b9b8520a.js",
+    "static/js/453.a35365b4.chunk.js": "/elementaryelectricco/static/js/453.a35365b4.chunk.js",
+    "static/media/IMG_0352_VSCO.jpg": "/elementaryelectricco/static/media/IMG_0352_VSCO.0af76ae2d1cdf6c6c5f9.jpg",
+    "static/media/IMG_0355_VSCO.jpg": "/elementaryelectricco/static/media/IMG_0355_VSCO.d9a1eb0cd6eca79ac154.jpg",
+    "static/media/IMG_0321.jpg": "/elementaryelectricco/static/media/IMG_0321.1a76e715b77abad8fac6.jpg",
+    "index.html": "/elementaryelectricco/index.html",
+    "main.8cbc1d57.css.map": "/elementaryelectricco/static/css/main.8cbc1d57.css.map",
+    "main.b9b8520a.js.map": "/elementaryelectricco/static/js/main.b9b8520a.js.map",
+    "453.a35365b4.chunk.js.map": "/elementaryelectricco/static/js/453.a35365b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cbc1d57.css",
+    "static/js/main.b9b8520a.js"
+  ]
+}
