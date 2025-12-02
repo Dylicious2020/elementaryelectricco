@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.56cec93d.css",
-    "main.js": "/static/js/main.4994b6e0.js",
+    "main.css": "/static/css/main.f12b24c8.css",
+    "main.js": "/static/js/main.4b5d710c.js",
     "static/js/453.a35365b4.chunk.js": "/static/js/453.a35365b4.chunk.js",
+    "static/media/bassAS.wav": "/static/media/bassAS.5e71190ea33cb0e3a7e5.wav",
+    "static/media/bassNoAS.wav": "/static/media/bassNoAS.7aab472d9de660600e47.wav",
+    "static/media/guitarMainLineNoAS.wav": "/static/media/guitarMainLineNoAS.ff3512f19ddbcbcd08c5.wav",
+    "static/media/monoDrumsNoAS.wav": "/static/media/monoDrumsNoAS.27860232117f3f13758c.wav",
+    "static/media/guitarMainLineAS.wav": "/static/media/guitarMainLineAS.5fb9e40ef503cb0004f4.wav",
+    "static/media/monoDrumsAS.wav": "/static/media/monoDrumsAS.e4563b32628fb56c1b12.wav",
+    "static/media/downBadAS.wav": "/static/media/downBadAS.234bb036b15c5a9131a6.wav",
+    "static/media/downBadOriginal.wav": "/static/media/downBadOriginal.5f8204450411d7959026.wav",
     "static/media/IMG_0352_VSCO.jpg": "/static/media/IMG_0352_VSCO.0af76ae2d1cdf6c6c5f9.jpg",
     "static/media/IMG_0355_VSCO.jpg": "/static/media/IMG_0355_VSCO.d9a1eb0cd6eca79ac154.jpg",
+    "static/media/IMG_0722_VSCO.JPG": "/static/media/IMG_0722_VSCO.f94bcb6b64b305f84df1.JPG",
     "static/media/IMG_0321.jpg": "/static/media/IMG_0321.1a76e715b77abad8fac6.jpg",
+    "static/media/asPedalGuts.JPG": "/static/media/asPedalGuts.51b8b9046bfd8dbee420.JPG",
+    "static/media/HendyAmpsLogo-Black.png": "/static/media/HendyAmpsLogo-Black.b8d464923d63610dff91.png",
     "index.html": "/index.html",
-    "main.56cec93d.css.map": "/static/css/main.56cec93d.css.map",
-    "main.4994b6e0.js.map": "/static/js/main.4994b6e0.js.map",
+    "main.f12b24c8.css.map": "/static/css/main.f12b24c8.css.map",
+    "main.4b5d710c.js.map": "/static/js/main.4b5d710c.js.map",
     "453.a35365b4.chunk.js.map": "/static/js/453.a35365b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56cec93d.css",
-    "static/js/main.4994b6e0.js"
+    "static/css/main.f12b24c8.css",
+    "static/js/main.4b5d710c.js"
   ]
 }
