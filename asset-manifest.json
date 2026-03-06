@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f12b24c8.css",
-    "main.js": "/static/js/main.a78ffa9b.js",
+    "main.js": "/static/js/main.68a83372.js",
     "static/js/453.a35365b4.chunk.js": "/static/js/453.a35365b4.chunk.js",
     "static/media/downBadAS.wav": "/static/media/downBadAS.234bb036b15c5a9131a6.wav",
     "static/media/downBadOriginal.wav": "/static/media/downBadOriginal.5f8204450411d7959026.wav",
@@ -13,11 +13,11 @@
     "static/media/HendyAmpsLogo-Black.png": "/static/media/HendyAmpsLogo-Black.b8d464923d63610dff91.png",
     "index.html": "/index.html",
     "main.f12b24c8.css.map": "/static/css/main.f12b24c8.css.map",
-    "main.a78ffa9b.js.map": "/static/js/main.a78ffa9b.js.map",
+    "main.68a83372.js.map": "/static/js/main.68a83372.js.map",
     "453.a35365b4.chunk.js.map": "/static/js/453.a35365b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f12b24c8.css",
-    "static/js/main.a78ffa9b.js"
+    "static/js/main.68a83372.js"
   ]
 }
